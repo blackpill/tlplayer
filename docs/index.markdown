@@ -2,31 +2,22 @@
 layout: default
 ---
 
-# Tesla Display - A FREE Tesla screen mirror app
+# TLPlayer - Tesla Lossless Music Player
 
-This free app can cast the small screen of your mobile phone to the big screen of your Tesla.
+This free app can maximize the music experience of your Tesla EV.
 
-## Use scenario 1:
-Share personal videos or watch some video apps that Tesla doesn't include.
+# The purpose of TLPlayer
 
-## Use scenario 2:
-In some countries(eg. China), Tesla's built-in navigation app is not good. You can use the mobile navigation app, and cast the screen. 
+As an owner of Tesla EV, I loved this car. Tesla EV has perfect audio system (including more than ten speakers).
+However, it doesn't have a CD player and the music quality of its built-in internet music app is not good enough, 
+<a href="https://www.notateslaapp.com/news/1111/apple-music-audio-quality-in-your-tesla-compared-to-spotify-and-tidal">as reported</a>.
+So I developed TLPlayer to play lossless music file such as WAV or FLAC format to maximize the music experience of Tesla EV.
+As far as I know, TLPlayer is the first app to play lossless music file for Tesla drivers.
 
-# The demo videos of Tesla Display app
-
-1080p HD video screen mirror using Tesla Display app
-<!-- blank line -->
-<figure class="video_container">
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/PkbfoLHjrvE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
-The remote control function of Tesla Display app
-<!-- blank line -->
-<figure class="video_container">
-  <iframe width="360" height="640" src="https://www.youtube.com/embed/CCqVkeF_VNg" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+# Why not play lossless music file on the phone and transfer it to Tesla EV through Bluetooth?
+<a href="https://undecidedmf.com/episodes/tesla-model-3-audio-system-review">As reported</a>, the Bluetooth subsystem of current Tesla EV only supports SBC and AAC.
+The maximum bitrate of the codecs is only 256kbps while the bitrate of lossless music file is more than 1000kbps. So Bluetooth is not enough for lossless music.
+Instead, TLPlayer use WiFi network to transfer lossless music file to Tesla EV. The audio quality will not downgrade.
 
 # Is this app free?
 
@@ -34,29 +25,12 @@ Yes. Only with some advertisement to support the author.
 
 # How to get this app?
 
-<a href ="https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay&referrer=utm_source%3Dgithub%26utm_medium%3Dorganic"><img src="./google-play-badge.svg" height="100px"></a>
+<a href ="https://play.google.com/store/apps/details?id=com.tlplayer&referrer=utm_source%3Dgithub%26utm_medium%3Dorganic"><img src="./google-play-badge.svg" height="100px"></a>
 
 # Will it spend extra internet traffic?
 
-No, because your Tesla is connected to the hotspot wifi of your mobile phone, the screen data is transfered through the local wifi. 
-
-# How to improve the video quality?
-
-1. Make sure that the hotspot wifi works in 5GHz mode.
-2. Make sure that no other devices connected to the hotspot.
-3. Resize image to a smaller ratio.
-4. Adjust the max bitrate when working in video mode.
-
-# Does it support full-screen mode in Tesla?
-Yes. First enter the full-screen mode via https://www.fullscreentesla.com or http://s3xy.top in Tesla's browser, and then add a link to http://7.7.7.7:7777.
-
-# How to use this app?
-<!-- blank line -->
-<figure class="video_container">
-  <iframe width="360" height="640" src="https://www.youtube.com/embed/ixLnKFQ4EfQ" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+No, because your Tesla is connected to the hotspot wifi of your mobile phone, the music data is transfered through the local wifi. 
 
 # More about this app?
 
-<a href ="https://groups.google.com/g/tesla-display" target="_blank">Discuss in Google Group <img src="group.png" height=50px></a>
+<a href ="https://groups.google.com/g/tesla-lossless-music-player" target="_blank">Discuss in Google Group <img src="group.png" height=50px></a>
