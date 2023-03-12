@@ -22,8 +22,7 @@ encoding: UTF-8
 title: TLPlayer - Tesla Lossless Music Player
 email: blackpill@msn.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A FREE screen mirror app for Tesla owners. This app can cast your small screen of your mobile phone to the large
-  screen of your Tesla.
+This free app can maximize the music experience of your Tesla EV.
 baseurl:  # the subpath of your site, e.g. /blog
 url: https://tlplayer.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: blackpill
