@@ -34,3 +34,7 @@ No, because your Tesla is connected to the hotspot wifi of your mobile phone, th
 # More about this app?
 
 <a href ="https://groups.google.com/g/tesla-lossless-music-player" target="_blank">Discuss in Google Group <img src="group.png" height=50px></a>
+
+# Privacy Policy
+
+<a href ="https://sites.google.com/view/tlplayer/home" target="_blank">Privacy Policy</a>
