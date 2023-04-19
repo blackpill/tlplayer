@@ -6,6 +6,15 @@ layout: default
 
 This free app can maximize the music experience of your Tesla EV.
 
+# The demo videos of Tesla Display app
+
+How to play lossless music files in Tesla EV without USB or Bluetooth?
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/5IFyIzr1Iu0" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 # The purpose of TLPlayer
 
 As an owner of Tesla EV, I loved this car. Tesla EV has perfect audio system (including more than ten speakers).
